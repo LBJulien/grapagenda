@@ -1,0 +1,82 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+        margin:0;
+        padding:0;
+        text-align:center
+}
+
+a {	
+	text-decoration: none;
+	color: #333;	
+}
+a:hover {
+	color: #F85c00;
+	text-decoration: none
+}
+
+h2{
+    margin-top:0; padding-top:0
+}
+p{
+    margin-top:0; padding-top:0
+}
+
+div#conteneur{
+    text-align:left;
+    margin:0 auto;
+    width:980px;
+}
+p#footer{ margin-top:15px }
+p#footer, p#footer a{
+    font-size:11px
+}
+
+.locataireLien a {
+	color: darkred;
+	text-decoration: none;
+  font-weight: bold;	
+}
+.locataireLien a:hover {
+	color: darkblue;
+	text-decoration: none;
+  font-weight: bold;	
+}
+
+.erreurTexte {
+  font-weight: bold;
+  text-align: center;
+  color: red;
+}
+.operation {
+  font-weight: bold;
+  color: darkgreen;
+}
+
+.adminMenu{
+	text-decoration: none;
+  font-weight: bold;
+}
+.adminMenu a {
+	color: darkred;
+	text-decoration: none;
+  font-weight: bold;	
+}
+.adminMenu a:hover {
+	color: darkblue;
+	text-decoration: none;
+  font-weight: bold;	
+}
+
+table.cadre {}
+table.pts {border: 1px solid darkblue; padding:2px; }
+table.calendar {border: 1px solid #333; border-collapse: collapse; color: #333; background-color: #888; }
+td.today { border: 1px solid #f85c00; color: #000000; font-weight: bold;}
+td.clic{ border: 1px solid darkred; color: #000000; }
+td.small { font-size:9px; width:86px; text-align: center;}
+.red { color: darkred; }
+.petit { color: darkred; font-size:10px; text-align: center; }
+.gros { color: #f85c00; font-size:14px; text-align: center; }
+td.monthdays {border: 1px solid black; color: white; background: #666; }
+td.nonmonthdays { border: 1px solid black; color: white; background: #333;}
+tbody {text-align: center;}

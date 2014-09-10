@@ -1,0 +1,19 @@
+###########################
+# Version 0.9 Beta de GrapAgenda
+# GUNNING Sky
+# www.viaphp.net
+###########################
+
+
+Pour installer l'agenda vous devez :
+ - éditer le fichier lib/config.php et y mettre vos information de connexion MySQL.
+ - uploader avec votre cient FTP favoris tout le contenu du script dans un répertoire (par exemple /grapagenda/)
+ - naviguer jusqu'au script et suivez le guide
+
+
+###########################
+
+Si vous avez un problème, n'hésitez pas à faire un tour sur le forum de Graphiks.net
+http://www.viaphp.net/forum/
+
+###########################

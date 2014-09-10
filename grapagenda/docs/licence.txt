@@ -1,0 +1,13 @@
+Ce script est soumis à la licence GPL.
+Pour lire la licence : gpl.txt
+
+Si vous avez un problème, lisez la licence officiel sur le site gnu.org
+http://www.gnu.org/copyleft/gpl.html
+
+
+!!! IMPORTANT !!!!
+Cer script est GRATUIT. Mais ... laisser au moins le lien vers mon site, c'est pas grand chose pour vous, mais, beaucoup pour moi.
+Ce script est soumis à la licence gpl, mais, avec ces conditions en plus :
+
+Vous DEVEZ laisser le lien vers www.viaphp.net sur toute les pages.
+Pour proposer ce script en téléchargement, mettez le un lien vers le site viaphp.net
